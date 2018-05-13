@@ -18,6 +18,7 @@ and I already have some ideas
 This was part of a course in  React.JS called: React Fundamentals.
 This is given by Tyler McGinnis.
 
+
 Webpage:
 https://tylermcginnis.com/
 
